@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   // REPLACE 'birthday-cake-from-crush' with your actual GitHub repo name 
   // if you renamed it. It MUST have the slashes like this: /repo-name/
-  base: '/birthday-cake-from-crush/', 
+  base: '/birthday-cake/',
   
   plugins: [
     react({
